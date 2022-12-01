@@ -1,2 +1,2 @@
 # quera
-quera tamrin codes
+تمارین کوئرا
